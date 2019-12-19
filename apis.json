@@ -1,0 +1,57 @@
+{
+    "name": "Full RSS to Email",
+    "description": "All-in-One Full Text RSS Builder - Feed API, Full RSS Converter & Real-time RSS to Email Service to Turn Shortened RSS into Full Text RSS Feeds, Create Full RSS Feeds & Convert XML & HTML to JSON in Seconds.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1057-full-rss-to-email.jpg",
+    "tags": [
+        "api provider",
+        "have api",
+        "texts"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/full-rss-to-email\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Full RSS to Email",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1057-full-rss-to-email.jpg",
+            "humanURL": "http:\/\/www.feedsapi.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/full-rss-to-email-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/www.feedsapi.com\/blog\/feed\/"
+        },
+        {
+            "type": "Email",
+            "url": "support@feedsapi.com"
+        },
+        {
+            "type": "Email",
+            "url": "kerstin@feedsapi.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/feedsapi"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/ApiFeeds"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.feedsapi.com"
+        }
+    ]
+}
