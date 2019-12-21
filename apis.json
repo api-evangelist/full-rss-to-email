@@ -7,8 +7,8 @@
         "have api",
         "texts"
     ],
-    "created": "2019-12-19",
-    "modified": "2019-12-19",
+    "created": "2019-12-21",
+    "modified": "2019-12-21",
     "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/full-rss-to-email\/master\/apis.json",
     "specificationVersion": "0.14",
     "apis": [
@@ -22,13 +22,21 @@
             "properties": [
                 {
                     "type": "x-openapi",
-                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/full-rss-to-email-openapi.json"
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/full-rss-to-email\/master\/full-rss-to-email-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/full-rss-to-email\/master\/full-rss-to-email-postman-collection.json"
                 }
             ]
         }
     ],
     "include": [],
     "x-common": [
+        {
+            "type": "APIs.json",
+            "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/apis.json"
+        },
         {
             "type": "Blog RSS",
             "url": "http:\/\/www.feedsapi.com\/blog\/feed\/"
